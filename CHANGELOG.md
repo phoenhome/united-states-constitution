@@ -15,3 +15,4 @@ Date | Event | Version
 1920-08-18 | 19th Amendment | v1.19
 1933-01-23 | 20th Amendment | v1.20
 1933-12-05 | 21st Amendment | v1.21
+1951-02-27 | 22nd Amendment | v1.22
