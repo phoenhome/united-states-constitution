@@ -269,3 +269,4 @@ Attest: [*William Jackson*](https://en.wikipedia.org/wiki/William_Jackson_(secre
 Date | Event | Version
 --|--|--
 1787-09-17 | Created |
+1788-06-21 | Ratified |
