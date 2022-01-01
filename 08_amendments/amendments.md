@@ -78,3 +78,7 @@ The person having the greatest number of votes as Vice-President, shall be the V
 
 2. The Congress shall have power to enforce this article by appropriate legislation.
 
+### 16. **XVI** [Sixteenth Amendment](https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution)
+
+The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
+

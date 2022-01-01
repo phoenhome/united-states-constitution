@@ -96,6 +96,8 @@
 
 15. **XV** [Fifteenth](08_amendments/amendment15.md)
 
+16. **XVI** [Sixteenth](08_amendments/amendment16.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
