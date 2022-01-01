@@ -1,0 +1,50 @@
+stages:
+  - build
+  - upload
+  - release
+
+variables:
+  UNITED_STATES_CONSTITUTION_PDF: 'United States Constitution.pdf'
+  UNITED_STATES_CONSTITUTION_MD: 'United States Constitution.md'
+  PACKAGE_REGISTRY_URL: '${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/generic/united-states-constitution/'
+
+build:
+  stage: build
+  image: ubuntu:latest
+  rules:
+    - if: $CI_COMMIT_TAG
+  before_script:
+    - apt update
+    - export DEBIAN_FRONTEND=noninteractive
+    - ln -fs /usr/share/zoneinfo/UTC /etc/localtime
+    - apt-get install -y tzdata
+    - dpkg-reconfigure --frontend noninteractive tzdata
+    - apt install -y texlive-xetex pandoc
+  script:
+    - ./make.sh
+  artifacts:
+    paths:
+      - ${UNITED_STATES_CONSTITUTION_PDF}
+      - ${UNITED_STATES_CONSTITUTION_MD}
+
+upload:
+  stage: upload
+  image: curlimages/curl:latest
+  rules:
+    - if: $CI_COMMIT_TAG
+  script:
+    - |
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file "${UNITED_STATES_CONSTITUTION_PDF}" "${PACKAGE_REGISTRY_URL}${CI_COMMIT_TAG}/united-states-consitution-${CI_COMMIT_TAG}.pdf"
+    - |
+      curl --header "JOB-TOKEN: ${CI_JOB_TOKEN}" --upload-file "${UNITED_STATES_CONSTITUTION_MD}" "${PACKAGE_REGISTRY_URL}${CI_COMMIT_TAG}/united-states-consitution-${CI_COMMIT_TAG}.md"
+
+release:
+  stage: release
+  image: registry.gitlab.com/gitlab-org/release-cli:latest
+  rules:
+    - if: $CI_COMMIT_TAG
+  script:
+    - |
+      release-cli create --name "United States Constitution $CI_COMMIT_TAG" --tag-name $CI_COMMIT_TAG \
+        --assets-link "{\"name\":\"${UNITED_STATES_CONSTITUTION_PDF}\",\"url\":\"${PACKAGE_REGISTRY_URL}${CI_COMMIT_TAG}/united-states-consitution-${CI_COMMIT_TAG}.pdf\"}" \
+        --assets-link "{\"name\":\"${UNITED_STATES_CONSTITUTION_MD}\",\"url\":\"${PACKAGE_REGISTRY_URL}${CI_COMMIT_TAG}/united-states-consitution-${CI_COMMIT_TAG}.md\"}"

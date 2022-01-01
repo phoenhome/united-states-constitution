@@ -1,0 +1,10 @@
+# .gitignore
+
+# Mac OS X
+.DS_Store
+
+# JetBrains IDE
+.idea
+
+# Temporary Directory
+tmp
