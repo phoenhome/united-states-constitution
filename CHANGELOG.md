@@ -12,3 +12,4 @@ Date | Event | Version
 1913-02-03 | 16th Amendment | v1.16
 1913-04-08 | 17th Amendment | v1.17
 1919-01-16 | 18th Amendment | v1.18
+1920-08-18 | 19th Amendment | v1.19

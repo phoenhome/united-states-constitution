@@ -363,6 +363,12 @@ This amendment shall not be so construed as to affect the election or term of an
 
 3. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
+### 19. **XIX** [Nineteenth Amendment](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution)
+
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
+
+Congress shall have power to enforce this article by appropriate legislation.
+
 
 ---
 
@@ -380,3 +386,4 @@ Date | Event | Version
 1913-02-03 | 16th Amendment | v1.16
 1913-04-08 | 17th Amendment | v1.17
 1919-01-16 | 18th Amendment | v1.18
+1920-08-18 | 19th Amendment | v1.19

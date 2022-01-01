@@ -102,6 +102,8 @@
 
 18. **XVIII** [Eigthteenth](08_amendments/amendment18.md)
 
+19. **XIX** [Nineteenth](08_amendments/amendment19.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
