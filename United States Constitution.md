@@ -305,6 +305,10 @@ The enumeration in the Constitution, of certain rights, shall not be construed t
 
 The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
 
+### 11. **XI** [Eleventh Amendment](https://en.wikipedia.org/wiki/Eleventh_Amendment_to_the_United_States_Constitution)
+
+The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
+
 
 ---
 
@@ -314,3 +318,4 @@ Date | Event | Version
 1788-06-21 | Ratified |
 1789-03-04 | Effective | v1.00
 1791-12-15 | Bill of Rights (Amendments 1 to 10) | v1.10
+1794-02-07 | 11th Amendment | v1.11
