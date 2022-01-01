@@ -355,6 +355,14 @@ When vacancies happen in the representation of any State in the Senate, the exec
 
 This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.
 
+### 18. **XVIII** [Eighteenth Amendment](https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution)
+
+1. After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
+
+2. The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.
+
+3. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
+
 
 ---
 
@@ -371,3 +379,4 @@ Date | Event | Version
 1870-02-03 | 15th Amendment | v1.15
 1913-02-03 | 16th Amendment | v1.16
 1913-04-08 | 17th Amendment | v1.17
+1919-01-16 | 18th Amendment | v1.18

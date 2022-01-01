@@ -100,6 +100,8 @@
 
 17. **XVII** [Seventeenth](08_amendments/amendment17.md)
 
+18. **XVIII** [Eigthteenth](08_amendments/amendment18.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
