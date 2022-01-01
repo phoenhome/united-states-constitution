@@ -98,6 +98,8 @@
 
 16. **XVI** [Sixteenth](08_amendments/amendment16.md)
 
+17. **XVII** [Seventeenth](08_amendments/amendment17.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)

@@ -347,6 +347,14 @@ The person having the greatest number of votes as Vice-President, shall be the V
 
 The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
 
+### 17. **XVII** [Seventeenth Amendment](https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution)
+
+The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures.
+
+When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct.
+
+This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.
+
 
 ---
 
@@ -362,3 +370,4 @@ Date | Event | Version
 1868-07-09 | 14th Amendment | v1.14
 1870-02-03 | 15th Amendment | v1.15
 1913-02-03 | 16th Amendment | v1.16
+1913-04-08 | 17th Amendment | v1.17

@@ -10,3 +10,4 @@ Date | Event | Version
 1868-07-09 | 14th Amendment | v1.14
 1870-02-03 | 15th Amendment | v1.15
 1913-02-03 | 16th Amendment | v1.16
+1913-04-08 | 17th Amendment | v1.17
