@@ -319,6 +319,12 @@ The person having the greatest Number of votes for President, shall be the Presi
 
 The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.
 
+### 13. **XIII** [Thirteenth Amendment](https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution)
+
+1. Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
+
+2. Congress shall have power to enforce this article by appropriate legislation.
+
 
 ---
 
@@ -330,3 +336,4 @@ Date | Event | Version
 1791-12-15 | Bill of Rights (Amendments 1 to 10) | v1.10
 1794-02-07 | 11th Amendment | v1.11
 1804-06-15 | 12th Amendment | v1.12
+1865-12-06 | 13th Amendment | v1.13

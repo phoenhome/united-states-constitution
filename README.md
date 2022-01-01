@@ -90,6 +90,8 @@
 
 12. **XII** [Twelfth](08_amendments/amendment12.md)
 
+13. **XIII** [Thirteenth](08_amendments/amendment13.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
