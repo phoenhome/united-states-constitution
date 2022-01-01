@@ -104,6 +104,8 @@
 
 19. **XIX** [Nineteenth](08_amendments/amendment19.md)
 
+20. **XX** [Twentieth](08_amendments/amendment20.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
