@@ -88,6 +88,8 @@
 
 11. **XI** [Eleventh](08_amendments/amendment11.md)
 
+12. **XII** [Twelfth](08_amendments/amendment12.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
