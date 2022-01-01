@@ -112,6 +112,8 @@
 
 23. **XXIII** [Twenty-third](08_amendments/amendment23.md)
 
+24. **XXIV** [Twenty-fourth](08_amendments/amendment24.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
