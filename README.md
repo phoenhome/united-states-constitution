@@ -110,6 +110,8 @@
 
 22. **XXII** [Twenty-second](08_amendments/amendment22.md)
 
+23. **XXIII** [Twenty-third](08_amendments/amendment23.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)

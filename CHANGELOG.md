@@ -16,3 +16,4 @@ Date | Event | Version
 1933-01-23 | 20th Amendment | v1.20
 1933-12-05 | 21st Amendment | v1.21
 1951-02-27 | 22nd Amendment | v1.22
+1961-03-29 | 23rd Amendment | v1.23
