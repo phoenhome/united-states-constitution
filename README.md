@@ -106,6 +106,8 @@
 
 20. **XX** [Twentieth](08_amendments/amendment20.md)
 
+21. **XXI** [Twenty-first](08_amendments/amendment21.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
