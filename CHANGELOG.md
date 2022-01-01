@@ -7,3 +7,4 @@ Date | Event | Version
 1794-02-07 | 11th Amendment | v1.11
 1804-06-15 | 12th Amendment | v1.12
 1865-12-06 | 13th Amendment | v1.13
+1868-07-09 | 14th Amendment | v1.14

@@ -92,6 +92,8 @@
 
 13. **XIII** [Thirteenth](08_amendments/amendment13.md)
 
+14. **XIV** [Fourteenth](08_amendments/amendment14.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
