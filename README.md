@@ -94,6 +94,8 @@
 
 14. **XIV** [Fourteenth](08_amendments/amendment14.md)
 
+15. **XV** [Fifteenth](08_amendments/amendment15.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)

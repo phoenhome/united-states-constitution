@@ -337,6 +337,12 @@ The person having the greatest number of votes as Vice-President, shall be the V
 
 5. The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.
 
+### 15. **XV** [Fifteenth Amendment](https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution)
+
+1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+2. The Congress shall have power to enforce this article by appropriate legislation.
+
 
 ---
 
@@ -350,3 +356,4 @@ Date | Event | Version
 1804-06-15 | 12th Amendment | v1.12
 1865-12-06 | 13th Amendment | v1.13
 1868-07-09 | 14th Amendment | v1.14
+1870-02-03 | 15th Amendment | v1.15
