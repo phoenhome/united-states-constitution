@@ -118,6 +118,8 @@
 
 26. **XXVI** [Twenty-sixth](08_amendments/amendment26.md)
 
+27. **XXVII** [Twenty-seventh](08_amendments/amendment27.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)

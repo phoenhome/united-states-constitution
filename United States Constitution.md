@@ -427,6 +427,10 @@ Thereafter, when the President transmits to the President pro tempore of the Sen
 
 2. The Congress shall have power to enforce this article by appropriate legislation.
 
+### 27. **XXVII** [Twenty-seventh Amendment](https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution)
+
+No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened.
+
 
 ---
 
@@ -452,3 +456,4 @@ Date | Event | Version
 1964-01-23 | 24th Amendment | v1.24
 1967-02-10 | 25th Amendment | v1.25
 1971-07-01 | 26th Amendment | v1.26
+1992-05-05 | 27th Amendment | v1.27

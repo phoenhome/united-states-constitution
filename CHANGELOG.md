@@ -20,3 +20,4 @@ Date | Event | Version
 1964-01-23 | 24th Amendment | v1.24
 1967-02-10 | 25th Amendment | v1.25
 1971-07-01 | 26th Amendment | v1.26
+1992-05-05 | 27th Amendment | v1.27
