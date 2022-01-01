@@ -116,6 +116,8 @@
 
 25. **XXV** [Twenty-fifth](08_amendments/amendment25.md)
 
+26. **XXVI** [Twenty-sixth](08_amendments/amendment26.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
