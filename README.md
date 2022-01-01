@@ -114,6 +114,8 @@
 
 24. **XXIV** [Twenty-fourth](08_amendments/amendment24.md)
 
+25. **XXV** [Twenty-fifth](08_amendments/amendment25.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)

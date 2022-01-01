@@ -18,3 +18,4 @@ Date | Event | Version
 1951-02-27 | 22nd Amendment | v1.22
 1961-03-29 | 23rd Amendment | v1.23
 1964-01-23 | 24th Amendment | v1.24
+1967-02-10 | 25th Amendment | v1.25
