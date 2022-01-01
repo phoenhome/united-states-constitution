@@ -64,6 +64,28 @@
 
 ## 7. [Article VII](07_article7/article7.md)
 
+## [Amendments](tmp/amendments.md)
+
+1. **I** [First](08_amendments/amendment01.md)
+
+2. **II** [Second](08_amendments/amendment02.md)
+
+3. **III** [Third](08_amendments/amendment03.md)
+
+4. **IV** [Fourth](08_amendments/amendment04.md)
+
+5. **V** [Fifth](08_amendments/amendment05.md)
+
+6. **VI** [Sixth](08_amendments/amendment06.md)
+
+7. **VII** [Seventh](08_amendments/amendment07.md)
+
+8. **VIII** [Eighth](08_amendments/amendment08.md)
+
+9. **IX** [Ninth](08_amendments/amendment09.md)
+
+10. **X** [Tenth](08_amendments/amendment10.md)
+
 ---
 
 📝 [CHANGELOG](CHANGELOG.md)
